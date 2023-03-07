@@ -15,7 +15,7 @@ Instagram followers
 
 > git pull
 
-sh module.sh
+> sh module.sh
 
 # selesai
 # kasih star slur
