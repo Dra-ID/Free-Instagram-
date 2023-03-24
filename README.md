@@ -1,5 +1,6 @@
 # Free-Instagram
 Instagram followers 
+<p align=left> <img src=https://komarev.com/ghpvc/?username=vindranislur alt=Demias/> </p>
 # Install
 > pkg update && pkg upgrade
 
